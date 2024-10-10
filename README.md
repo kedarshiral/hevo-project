@@ -87,7 +87,7 @@ Now, PostgreSQL is set up and running in Docker on your Amazon Linux machine!
 - Clone the project repository by running:
 
   ```bash
-  git clone https://github.com/kedarshiral/hevodata_assignment.git
+  git clone https://github.com/kedarshiral/hevo-project.git
   ```
 
 ### Step 4. Navigate to the DBT Project Directory
@@ -95,7 +95,7 @@ Now, PostgreSQL is set up and running in Docker on your Amazon Linux machine!
 - Change to the project directory:
 
   ```bash
-  cd hevodata_assignment/my_dbt_project
+  cd hevo-project
   ```
 
 ### Step 5. Run the Secrets Retrieval Script
